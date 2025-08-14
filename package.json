@@ -2,6 +2,7 @@
   "name": "user-feedback-system",
   "version": "1.0.0",
   "private": true,
+  "proxy": "http://localhost:3001",
   "description": "VoxPop Frontend - A React-based user feedback management system",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
